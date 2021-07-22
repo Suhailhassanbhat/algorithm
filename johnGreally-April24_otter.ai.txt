@@ -1,0 +1,427 @@
+Unknown Speaker  1:03  
+Christians like myself look after the COVID-19 patients but
+
+Unknown Speaker  1:07  
+so far I haven't been pulled in although I may get called up to one of the public hospitals which would be
+
+Unknown Speaker  1:13  
+another challenge. How are you both doing?
+
+Unknown Speaker  1:16  
+I'm good, I'm good.
+
+Unknown Speaker  1:20  
+I'm doing pretty good to complain now.
+
+Unknown Speaker  1:26  
+Thank you so much for taking time out. January's Tell me about this project Rafa. irizarry If, if your email says Rafa irizarry, then I'm going to do it. That's,
+
+Unknown Speaker  1:39  
+yeah, we're planning to get in touch with him. Then he said like he's not an expert in the field, but he gave us your number and tell you You are an expert in this field. And
+
+Unknown Speaker  1:53  
+our project is about DNA testing. And we are especially looking at the
+
+Unknown Speaker  2:00  
+DNA testing algorithmic how those came into existence and how they work. And we're also looking into like how it works actually DNA testing what a lot of people don't know what DNA testing means in like, very fundamental stem. And what are the different areas are being tested? It's not only like parent or DNA testing or in its DNA testing, it's also foreign DNA.
+
+Unknown Speaker  2:29  
+So, yeah, I would start at the very base question, what are the recent trends in DNA testing things particularly.
+
+Unknown Speaker  2:39  
+We'd also like to look at like some of the cultural and ethical implications behind DNA testing, especially with the rise of the consumer DNA tests like family tree DNA, and them getting all the way to the FBI. And how when these companies update their algorithms, their whole, like, their whole analysis changed.
+
+Unknown Speaker  3:00  
+Basically, sometimes it can redefine someone's background.
+
+Unknown Speaker  3:05  
+So, if we could start, could you tell us more about your work and like what you do?
+
+Unknown Speaker  3:12  
+Okay. Well, I'm happy to help. And these are interesting questions that you're asking. I'm originally trained as a pediatrician, and then sub specialized in the field of clinical genetics. And right now, I see patients Well, I do telehealth visits now, but I usually see patients once a week at Montefiore hospital,
+
+Unknown Speaker  3:34  
+and they come in with they can be anything from a newborn to the oldest patient I had recently was 82 years of age, which is
+
+Unknown Speaker  3:44  
+old for a pediatrician to be looking after.
+
+Unknown Speaker  3:48  
+And they come in with every type of genetic condition or question about a genetic condition.
+
+Unknown Speaker  3:55  
+The patient population that I serve up in the Bronx is most diverse in the United States.
+
+Unknown Speaker  4:00  
+In its most the poorest, the South, the southern.
+
+Unknown Speaker  4:04  
+The Congressional District in the South Bronx is the poorest congressional districts in the United States. We face challenges.
+
+Unknown Speaker  4:14  
+Well, when I say we face challenges we face nothing like the challenges the families face, you know, they they're at home in a small apartment with with two kids with autism or something like that.
+
+Unknown Speaker  4:25  
+That's their life is much more complicated than our especially
+
+Unknown Speaker  4:31  
+what we face when we are trying to provide care to these patients, is the typical situation that you'd have anywhere have what's the appropriate testing to do? How do we
+
+Unknown Speaker  4:45  
+let people know in advance what they're letting themselves in for as regards genetic testing? So there's the pretest counseling component to it.
+
+Unknown Speaker  4:55  
+Then when we get results back, how do we communicate it to people
+
+Unknown Speaker  5:00  
+Whose education levels and language skills are not necessarily
+
+Unknown Speaker  5:05  
+very strong.
+
+Unknown Speaker  5:08  
+And
+
+Unknown Speaker  5:10  
+we have entered into this I think people who haven't dealt with the kinds of populations that we deal with
+
+Unknown Speaker  5:18  
+have somewhat patronizing ideas about what minority populations and disadvantaged populations would think of genetic testing, they'll be saying
+
+Unknown Speaker  5:26  
+that
+
+Unknown Speaker  5:28  
+they're not going to want to do it because of paternity issues. And because of, you know, law enforcement, friends issues, they don't want their DNA planted on the scene, stuff like that. And to be honest with you, that's bullshit. The families are sophisticated enough to realize that this is a diagnostic test that will help them to understand what's going on with their child. Generally, that's the indication for it. They just want to help their child to be better. If they struggle with the information, they know that they can phone us up and we'll give them more information, they can come back and talk
+
+Unknown Speaker  6:00  
+We have interpreters we have,
+
+Unknown Speaker  6:03  
+we create printed materials, whatever it takes. so pleasant surprise in this entire process from the genetics, clinical genetics point of view is how well these people that we serve, are able to deal with inflammation. That's one day a week. And then the other the rest of the week is spent in my research program, which is to try to understand why why the genome predisposes us to disease. And the area that I work on is generally called epigenetics. And it has to do with all the DNA sequence which is in between the genes and how it can affect our risks of disease, and how it can make each of the three of us different in terms of how we might respond to some sort of environmental
+
+Unknown Speaker  6:51  
+perturbation.
+
+Unknown Speaker  6:53  
+And those perturbations can involve things like
+
+Unknown Speaker  6:57  
+infection. So one of the things that's
+
+Unknown Speaker  7:00  
+happening in the Bronx at the moment is we have, by far the highest rate of death associated with COVID-19 pandemic. And it's very tempting for
+
+Unknown Speaker  7:10  
+my geeky scientist friends to say, well, it must be a genetic thing. It's very tempting for my friends who are
+
+Unknown Speaker  7:18  
+involved with social health determines to say its social health, its comorbidities. And then it's very tempting for my
+
+Unknown Speaker  7:29  
+bigoted non friends to say it's their own fault because they let themselves get too fat or something like that. So screw those people.
+
+Unknown Speaker  7:38  
+So that's kind of what I do. And you can see a little bit of polemic beginning to
+
+Unknown Speaker  7:48  
+fail. Any question?
+
+Unknown Speaker  7:51  
+Yeah, I was going to ask like, what what are the recent trends in DNA testing? or what have been the challenge?
+
+Unknown Speaker  8:00  
+are like last few decades in DNA.
+
+Unknown Speaker  8:04  
+So let's let's separate out I think the most important split to make when you're talking about DNA testing is the testing that's offered within hospitals and clinical care systems and the stuff that's going directly to consumers.
+
+Unknown Speaker  8:17  
+The
+
+Unknown Speaker  8:21  
+you're you're both in journalism school, is that correct? So the better story here is going to be the direct consumer stuff, because this is controversy. There's sneaky behavior. There's all that kind of stuff. But let's get the the hospital side of things out of the way. First, our ability to do genetic testing now is phenomenal, both in terms of the amount of data we're able to generate and how we're able to interpret the information. So we have a project which I think is shown over this shoulder here and yc could seek and what it is designed to do is to sequence the entire genome
+
+Unknown Speaker  9:00  
+Know, all 3 billion base pairs. And that includes a small proportion, which is genes, but everything else in between as well, which is where we're going to find more and more disease risks and
+
+Unknown Speaker  9:14  
+offer that to diverse populations.
+
+Unknown Speaker  9:18  
+generating the data is straightforward, we get a sample of blood from the kid, and from each of the parents, if they're available about 50% of the time, we can get both parents another 45% of the time, we can get one parent, you know, that's the reality of population, urban populations with with social strife and so on. About 5% of the time the child has been adopted or the parents are dead. And we don't have either parents.
+
+Unknown Speaker  9:45  
+We can generate a whole genome sequence. That's easy. It's also not as expensive as it used to be. We can analyze the whole genome sequence and it's straightforward
+
+Unknown Speaker  10:00  
+But our knowledge is incomplete. So if we have kids come in who have, say a seizure disorders, something like that, even though we sequence everything, there's nothing missing, we can only and we know that it has to be genetic, because you know, there are two kids in the family with it or whatever. We can only make a diagnosis 25% of the time. So a gap in our knowledge at the moment is we just don't understand a lot of variation. And if I can get back on my,
+
+Unknown Speaker  10:33  
+one of my favorite topics, which is underserved populations,
+
+Unknown Speaker  10:38  
+a lot of the variation that we understand is in Northern European white people. The variation that we don't understand is everyone else, and people who have Sub Saharan African ancestry. That's the most heterogeneous and diverse group of people in the world. It's only a small proportion of people who ended up coming out of Africa to populate
+
+Unknown Speaker  11:00  
+The rest of the world. So if you go into Africa, variation is intense, and we have very little information about how to interpret that.
+
+Unknown Speaker  11:11  
+So
+
+Unknown Speaker  11:14  
+our ability to understand variation is incomplete, but it's more incomplete for diverse people. That's, that's, I think, a takeaway message. But we're also on an upswing so that we're getting more information about diseases in general. We're getting more information about
+
+Unknown Speaker  11:34  
+people from diverse backgrounds, it's being recognized not just as the right thing to do, but a way of finding disease genes. There are some some disease genes that if you study a population that is usually at risk of condition, you will, all of a sudden realize that you can find a disease gene in say, a Puerto Rican our island population, that would have been very difficult to find.
+
+Unknown Speaker  12:00  
+In Ireland, or Northern Europe or you know, Chicago or something like that.
+
+Unknown Speaker  12:05  
+And then of course, you can take the results of that Puerto Rican study and apply it to the general population. So there's, if you appeal to the sense of selfishness of
+
+Unknown Speaker  12:17  
+researchers, it's a great motivator for them to do.
+
+Unknown Speaker  12:24  
+They
+
+Unknown Speaker  12:30  
+were, so we're on an upswing, we're not on an upswing for all populations, and things are going to get better over time. But there's always going to be a component of this that we're still gonna be searching for. There's gonna be some diseases that'll be harder than others. There's disease with large environmental components, which will be we'll have to do more sophisticated things to understand. But the clinical side of things is coming together in terms of how we get information to families before doing the test.
+
+Unknown Speaker  13:00  
+So that their consent is informed. I think we're reasonably good at that. And how we get information to families after we've done the testing is, you know, we're following best practice. It's slow, it's clunky, it's very difficult to scale because it takes a while. But we're, we're moving in the right direction. The other avenue is, of course, the direct to consumer testing. So direct to consumer testing, there is no advance counseling that says, here's all the things that are upside and downside to this kind of testing. So I did 23andme years ago, predominantly because I wanted to know what it was like when the gun is pointed at me. What if I'm learning about my own genetic makeup? I can getting an insight into how the thought processes must be going through my patients heads.
+
+Unknown Speaker  13:50  
+Would I do it today? knowing what I know about direct to consumer testing, possibly not? I think I would probably try and find a way that my information is more
+
+Unknown Speaker  14:00  
+protected, and we can get into discussions of why there should be concerned about that.
+
+Unknown Speaker  14:07  
+The so the the advance information that people have when they do a test through 23andme ancestry.com, or any of these other direct consumer testing companies is, is it's self serving on the parts of the companies that they should scare people as little as possible and entice them as much as possible. So you don't see that kind of
+
+Unknown Speaker  14:31  
+rigor attached to
+
+Unknown Speaker  14:34  
+when the results come back.
+
+Unknown Speaker  14:37  
+I did mine early enough that I was in the pre lockdown of 23andme, where they actually reported back medical variants and said you have increased risk, decrease risk of disease, and it was discovered, I don't think it was the FDA I think it was like
+
+Unknown Speaker  14:57  
+smart guys are doing journalism secret. I love this.
+
+Unknown Speaker  15:00  
+But I think was like the Trade Commission or something like that, who said that they were operating under a fraudulent model, where they should not be providing medical results to patients. And so they cut off everything I had already looked at my profile.
+
+Unknown Speaker  15:15  
+So
+
+Unknown Speaker  15:16  
+there is a recognition that there's these results have to be provided back to people in a responsible way. And then you get into the issue of Well, what do they provide now? So they, they, it's kind of limited, you know, that the majority of what people seem to want to use this for is to learn about their ancestor. And I'm conscious that I'm talking a lot on, please feel free to interrupt. I'll just give you a little bit more streaming consciousness on the ancestry stuff, and then you can you can interrupt me.
+
+Unknown Speaker  15:49  
+A lot of the time people discover that they're exactly who they think they are. They're saying there's no great shock, but they're, they've explored it. There's always a little bit of information.
+
+Unknown Speaker  16:00  
+In terms of the analysis, so when it said to me, you're 1% Ashkenazi Jewish, I'm from the west of Ireland.
+
+Unknown Speaker  16:08  
+I thought, Oh, this is really interesting. So cool. And then I realized the spike of where it says I was Ashkenazi Jewish was on the short arm of chromosome six, which is where the most variable sequences are in all of our genomes. And it's a new
+
+Unknown Speaker  16:23  
+gene region, which needs to be diverse for so that we can have distinctive immune responses. And I realized, okay, that's nice. But some people look uncritically at the results and say, Oh, I'm 2%, West African. And I'm 3% Pakistani and isn't isn't. I'm so interesting. And to some extent, I think it's a shame that people don't understand noise. And but on the other hand, if they get something positive out of it, about themselves and their self, self, their sense of self image is boosted in some way.
+
+Unknown Speaker  17:00  
+Great. There's no harm in that. But for some people, I have a friend who discovered that his father was not his father. And in a funny way, he's a bit older, so he didn't need. He and he kind of suspected uncle Donnie, he discovered that he had all this Italian ancestry as opposed to the Polish ancestry that he was expecting. And it was kind of helpful to him because ichael Donnie died of a cardiac condition relatively early. And now he knows that he inherited half of his genome from uncle Donnie, so he knew to get his himself tested for these issues.
+
+Unknown Speaker  17:39  
+So
+
+Unknown Speaker  17:42  
+in other cases, I think it could be quite damaging to yourself, have a sense of self and it would be nice to know that that's a risk before you go in to the testing.
+
+Unknown Speaker  17:52  
+Have either of you done this? Can I ask you?
+
+Unknown Speaker  17:57  
+I considered doing it about
+
+Unknown Speaker  18:00  
+A year ago, Amazon was having a sale, they do their Prime Day sales with all the tests make you do like, half off on like the ancestry test and the 23andme test. But then I got it and I just held it. And I was like, this doesn't feel right. And so I said,
+
+Unknown Speaker  18:15  
+So tell me, tell me about that. If you don't mind, what What went through your head? It's like, um, what are they going to use my test for? Are they gonna keep my data on file? Like it's gonna come back to bite me in the future? So it's like, I had all these questions like, Okay, I'm gonna send this back, because what does it feel like? I have all these questions and kind of looking at the privacy policies. And it just was it was really vague. I was just like, this is that for me now. That that way?
+
+Unknown Speaker  18:41  
+Well, good for you. And I think that was a mature decision. And it was a considered decision. You looked at the privacy policy you were you were you made yourself more informed about it. And you realize that there was a risk benefit in this and that's the thing with any any genetic testing, and it's also the thing with any medical intervention. So if you're getting
+
+Unknown Speaker  19:00  
+considering putting lights inside your body or injecting yourself with Clorox today, I just recognized that while there may be some benefit to that there's a very substantial risk. And it's the same with everything that we do in medicine.
+
+Unknown Speaker  19:12  
+But I think that you're raising, one of the big issues that comes up with this, which is the privacy of your data is one of the most fundamental sources of information about a person. And just as I talked about how our diagnostic ability is going up and up, our ability to extract information from your genomic sequence is going to go up and up as well in ways that are not necessarily going to be things that you'll be comfortable letting people know about. And once they have your data once those are your data forever, your DNA doesn't change over time. So I think you went through a common process and I think that you went through an unusually mature way of doing it, if that makes sense.
+
+Unknown Speaker  19:54  
+Thank you kind of talked a little bit about how the tests differ between when it's like looking for it to be true, like
+
+Unknown Speaker  20:00  
+dexterity and print can help pass like a healthcare professional test. Do you think that law enforcement should be using ancestral DNA test results in the place of forensic result?
+
+Unknown Speaker  20:14  
+So
+
+Unknown Speaker  20:16  
+my wife is basically a healthcare economics economics expert. She's always talking about what the incentives are for. She's sitting on the other side of the room. So she knows she's getting a shout out. She she's always talking about what are the incentives for people within a system? And it can you blame somebody for following the incentives that are offered to them, whatever it might be. If you're in law enforcement, and you've got a way of cracking a case where you just steal a sample of DNA from somebody or you find the result of some first cousin, and you can you you can do that, and there's no law against you doing it. Why wouldn't you do it?
+
+Unknown Speaker  20:55  
+I can see their point of view. Now, if you ask the question slightly differently and say should
+
+Unknown Speaker  21:00  
+Society be allowing us? Should the companies be protecting their data better because of the fact that you have basically knocked on your cousin inadvertently. What that's that's for us to decide from a societal point of view. It's not that there's nobody at fault here, either in the genetic testing company or in the law enforcement part of the equation, because there's no law against this. But if we think that we should be protecting people's genomic information in and stop it being scavenged for commercial purposes, and for legal purposes, then we need to elect people who will do that for us.
+
+Unknown Speaker  21:44  
+Do you think some of the differences in the testing process could like lead to some false matches? Because I know like a test for different markers, right when you're doing a test, like for ancestry versus test for a crime
+
+Unknown Speaker  22:01  
+That's a really good question. Okay. So ancestry, there are certain variants in our genomes that will point us to our various ancestral roots. And then there are other variants in the genome that will point towards different types of diseases that were prone to. And then yet other ones, which just basically say, Are you related to this other individual over here, and they kind of blend together after a while, you know, some of these will be multifunctional. And, you know, I have a variant in my genome, which is for an iron overload syndrome called hemochromatosis. So if you say, okay, that's a disease gene. It's also it's almost like getting a genetic testing, you're Irish, because it is such a higher high frequency in the Irish population. So if you were to develop ancestry informative markers from around the genome, and people do, and this was one that you said, Oh, this is a great discriminant for Irish people. It you know, it's the same marker
+
+Unknown Speaker  23:00  
+Both times
+
+Unknown Speaker  23:02  
+the what generally these companies do is they will do a microarray genotype on you. And what the microarray does is it doesn't give you the sequence of all 3 billion base pairs, it may look at one or 2 million of those. So it's a very small sampling, but they're chosen in such a way that they're highly likely to be variable between people. And while in the past, it was variants that would discriminate between northern European people, there are now better microarrays that will also give you a sense of whether you're from East Asia, South Asia, Sub Saharan Africa, Hispanic American, whatever it might be. And so they're, they're designed to be informative across all groups.
+
+Unknown Speaker  23:45  
+So
+
+Unknown Speaker  23:47  
+the, by the time you can make a lot of these markers work for ancestry, you can also make the same or different ones work for a family relationship. So it's not as if there is
+
+Unknown Speaker  24:00  
+two sets of tests. The one the one test covers everything.
+
+Unknown Speaker  24:07  
+It is that true for forensic tests as well. Yeah.
+
+Unknown Speaker  24:12  
+Up on the challenge in if we have like, three DNA samples, like mixed together a mixture of DNA samples, is that a challenge? Like when when we use DNA testing in, like cracking down cases, criminal cases? So be a bit more specific. You mean that you you, you're a detective, you're at a crime scene. You swab some DNA? Yeah. And it's actually coming from three, three sources? Yes, you'd have three sources. And you're wondering whether they even recognize that was from three sources or Yes, I pull up out the three. Yes. Do they recognize it from three sources? And if they do, how do they, like generate a full DNA sample or strain out? Yes, very good question. So it's generally quite good.
+
+Unknown Speaker  25:00  
+To recognize that there's a whole lot of weird stuff going on. And that is probably due to contaminated DNA.
+
+Unknown Speaker  25:08  
+Now, if you
+
+Unknown Speaker  25:11  
+if you wanted to see whether it's likely to be
+
+Unknown Speaker  25:16  
+alright, supposing you have a mixture of three, and he wants to see whether it's related to this fourth sample. So this is the potential criminal, and there are three sounds together, what you're looking for is, in these three, you're going to be seeing a kind of a mixed message as you walk along the chromosome. But within it, there's it you suppose and you said, there's a specific thing here, here, and here are three positions. And then if you look at this, this fourth sample over here, you can say this also has the potential to have those three positions be the same. If you're only talking about three positions in each case, that's very little information that can probably happen by chance. There's going to be a mixture of stuff within the mixed samples, and then there's going
+
+Unknown Speaker  26:00  
+Some stuff happening in this one sample. But imagine if you went up to 300 positions along the chromosome or 3000 positions on the chromosome. And you're starting to see that it could be the same with a, there's, it's messy on the mixed sample, but it's it's kind of, you know, you're always getting that signal. After a while it becomes probabilistic. And you may not see a clean signal from the mixed sample. But you're starting to see enough of a pattern coming together that you're able to say, I'm now out of the realm of random chance I'm into the realm of, of the screen and actual positive, so it can be done.
+
+Unknown Speaker  26:42  
+That is correct me if I'm wrong, that's the logic L. Gordon's use as well, right.
+
+Unknown Speaker  26:52  
+I'm sorry, can you repeat that, sir? So the algorithm that has been that that I used to actually read these DNS
+
+Unknown Speaker  27:00  
+samples are these DNA patterns. And sometimes they get like a half sample and they couldn't generate an entire pattern. So the model itself looks at the pattern and develops a full pattern out of it. Yeah. Is there a chance? Like, is it better to do it manually versus doing it with a software? So what you're talking about is,
+
+Unknown Speaker  27:23  
+the closest thing I can think to what you're talking about is this thing called amputation. So you know, what's here, and here and here. Yeah. And because you recognize this pattern, you're able to fill in that it's likely to have all these other things in between as well. So imputation genetic imputation has done a lot. It's, it's it's a pretty robust technique.
+
+Unknown Speaker  27:46  
+It works better when you know more about people from that ancestry. So it works a lot better than people who are Northern European wives than others. But it works. It's reliable and
+
+Unknown Speaker  28:00  
+I don't think anyone would have major problems with it.
+
+Unknown Speaker  28:05  
+And, um, so I was wondering if you maybe talk a little bit about some of the flaws that are in consumer DNA testing systems and what kind of impacts that these flaws can actually have.
+
+Unknown Speaker  28:19  
+From a technical point of view, they're probably pretty, okay. You know, you send your fish that goes on to a microarray, they have ways of testing to see whether the quality is okay. And then they they read out the sequence variation. So from the point of view, generating the data, they're probably fine. You know, there's, there's, there's very little room for problems there.
+
+Unknown Speaker  28:44  
+If they're going to be flaws, it's going to be not so much the technical generation of that and not so much the technical analysis of the data. They're, they're going to be
+
+Unknown Speaker  28:56  
+okay, as predicting ancestry. Funny thing will
+
+Unknown Speaker  29:00  
+If you take your DNA sequence that you get back from 23, me like I did, and we feed it into different ancestry prediction programs, you'll get different answers so that the algorithms all have their noise. So you can't presume that one is better than another.
+
+Unknown Speaker  29:17  
+But
+
+Unknown Speaker  29:20  
+the the problems, I think that are that are really inherent to this is how the data are used, and what are the societal implications for it, there's a company in Ireland.
+
+Unknown Speaker  29:32  
+There, there's a company in Ireland that wants to sequence one 10th of the entire country 450,000 people. By the time you've done that, and an island nation, you've got everybody's DNA, because you can you can infer all of the relationships of people to each other. So they're, how you use the information at the end of the day is critically important. And that's where there could be flaws in the system. But these are societal, regulatory and legal flaws.
+
+Unknown Speaker  30:00  
+ethical flaws as opposed to technical issues.
+
+Unknown Speaker  30:08  
+So,
+
+Unknown Speaker  30:09  
+okay.
+
+Unknown Speaker  30:12  
+I think that, that's all the questions I have. I do have any more. Andrew, I did have one last question. Just out of curiosity, how far away Do you think we are from designer babies and the ethical implications behind them? Because I know um, 23andme was testing software that could combine features from like the partner and like your DNA, you could like, see what your maybe look like. We're running out of time.
+
+Unknown Speaker  30:40  
+I'd like to get on another call now. Anyway, so you know, one of the other things we can do is as you mature this story, and you want to have a catch up again, we can we can do some other things, email or another quick session. That's a very complicated answer under
+
+Unknown Speaker  30:58  
+the there too.
+
+Unknown Speaker  31:00  
+designer baby implies taking a baby that's going to be healthy anyway and make them better. The the bar that we set ourselves in as geneticists is, can we take a baby who is going to be really screwed with a genetic problem and make them okay? And that is, that's an ethically reasonable thing to be trying to do.
+
+Unknown Speaker  31:24  
+If, if you want to have a blue eyed child, or if you want to have a child who is resistant to HIV, like the doctor in China was was purportedly trying to do, or you want your child to be,
+
+Unknown Speaker  31:37  
+you know, something else. First of all,
+
+Unknown Speaker  31:41  
+there's a risk benefit, like when you go home and inject your Clorox there's a risk benefit ratio, okay? You do an intervention with CRISPR to edit the genome, you could also mess up the genome at that place or somewhere else. And so you have to make sure that you're not doing more harm than good and CRISPR technology.
+
+Unknown Speaker  32:00  
+is very, very good, but it's still not perfect.
+
+Unknown Speaker  32:04  
+Second thing is some conditions or traits are more amenable to editing at one place. So you could probably do something about a genetic disease, certainly, and maybe some individual traits by manipulating one case, but things like height, and other common diseases and stuff like that.
+
+Unknown Speaker  32:29  
+If you have to end up manipulating thousands of those energies, it's not going to happen. Okay?
+
+Unknown Speaker  32:37  
+So it's an ethically, you're making decisions about a kid, your kid is not had any input into this. But then there are other instances where you're, you would be making medical decisions about kids, as a parent or as a father, somebody who has responsibility. So it's a very long and involved discussion.
+
+Unknown Speaker  33:00  
+Maybe we should park that one for Yeah.
+
+Unknown Speaker  33:03  
+Thank you for I do a much. We appreciate your time. Yeah. So let me know how this progresses and I'll be happy to answer other other questions. I think it's great that you're pushing this issue, and
+
+Unknown Speaker  33:18  
+I'll be happy to help you.
+
+Unknown Speaker  33:21  
+Thank you. Great we got you do tell
+
+Unknown Speaker  33:25  
+ya
+
+Transcribed by https://otter.ai
